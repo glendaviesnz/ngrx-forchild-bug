@@ -1,0 +1,1 @@
+# ngrx-forchild-bug
